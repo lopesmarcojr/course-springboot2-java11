@@ -1,29 +1,21 @@
 # API RESTful com Java
 
 ## Descrição do projeto
-Projeto desenvolvido em Java com o intuito de aprimorar os conhecimentos na linguagem. Trata-se de uma API RESTful que simula a realização de posts feitos pos usuários, onde podem ser criados posts, editados, listados e deletados, bem como comentários podem ser feitos na publicação de determinado usuário, e esses comentários serem vinculados ao mesmo
+Projeto desenvolvido em Java com o intuito de aprimorar os conhecimentos na linguagem. Trata-se de uma API  que simula a realização de compras feitos por usuários, onde podem ser criados vendas de produtos, editados, listados e deletados
 
 ## Funcionalidades:
 
-### A aplicação tem as funcionalidades de um CRUD,portanto,realiza as seguintes operações:
+### A aplicação tem as funcionalidades de um CRUD,portanto,realiza as seguintes operações para todas as entidades:
 
-Funcionalidades para o usuario:
+Funcionalidades:
 
 <ul>
-  <li>Inserção de novo usuario</li>
-  <li>Listar todos os usuario ou apenas um usuario por ID</li>
-  <li>Editar um usuario</li>
-  <li>Deletar um usuario</li>
+  <li>Inserção de novo usuario, categoria, compra ou produto</li>
+  <li>Listar todos os usuarios, categorias, compras ou produtos apenas um por ID</li>
+  <li>Editar um usuario, categoria, compra ou produto</li>
+  <li>Deletar um usuario, categoria, compra ou produto</li>
 </ul>
 
-Funcionalidades para o post:
-<ul>
-  <li>Inserção de novo post</li>
-  <li>Listar todos os posts ou apenas um post por determinado palavra chave ou data</li>
-  <li>Listar os usuarios a qual determinado post está aninhado</li>
-  <li>Editar um post</li>
-  <li>Deletar um post</li>
-</ul>
 
 ## Recursos utilizados
 
